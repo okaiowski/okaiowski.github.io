@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Kaiowski's Virtual Space"
+author: "Kaio Roque"
+description: "My virtual space"
 permalink: /:title/
-lang: "en"
+lang: "pt"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "kaioroque.dev@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/okaiowski"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
